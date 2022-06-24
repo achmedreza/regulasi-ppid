@@ -1,0 +1,2 @@
+<h4 style="margin-bottom: -0px; margin-top: -15px; font-size: 35pt">GALERY</h4>
+ <span style="color:#d35400; margin-bottom: 30px"><sapn style="color: #2c3e50">BY</sapn> JDIH DINKES PROV DKI JAKARTA</sapn></span><hr>
